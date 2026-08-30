@@ -22,8 +22,8 @@
 
 <a href="https://www.star-history.com/?repos=nndl%2Fnndl&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nndl/nndl&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nndl/nndl&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=nndl/nndl&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nndl/nndl&type=date&theme=dark&legend=top-left&sealed_token=04fpFWw5XHn-ZYLH87cz43lZipOv-swz0u-Mpe4ns2nwuzcrzfNFGikiGlokhmLeGY1xnDYBRt5ITAtg4mIU3KZhSDGQGm7kNDuVRukImKDN5CRXIr7wh-6rQwGnuERP0Jeecv5GSTye-_Q1Eb03DnIDZpPAaKhX_E3lMcNxCuJAyzNjhsnCyxw3_HgR" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nndl/nndl&type=date&legend=top-left&sealed_token=04fpFWw5XHn-ZYLH87cz43lZipOv-swz0u-Mpe4ns2nwuzcrzfNFGikiGlokhmLeGY1xnDYBRt5ITAtg4mIU3KZhSDGQGm7kNDuVRukImKDN5CRXIr7wh-6rQwGnuERP0Jeecv5GSTye-_Q1Eb03DnIDZpPAaKhX_E3lMcNxCuJAyzNjhsnCyxw3_HgR" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=nndl/nndl&type=date&legend=top-left&sealed_token=04fpFWw5XHn-ZYLH87cz43lZipOv-swz0u-Mpe4ns2nwuzcrzfNFGikiGlokhmLeGY1xnDYBRt5ITAtg4mIU3KZhSDGQGm7kNDuVRukImKDN5CRXIr7wh-6rQwGnuERP0Jeecv5GSTye-_Q1Eb03DnIDZpPAaKhX_E3lMcNxCuJAyzNjhsnCyxw3_HgR" />
  </picture>
 </a>

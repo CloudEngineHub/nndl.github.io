@@ -129,15 +129,6 @@
 
 </details>
 
-## 下载与版本
-
-| 书 | 出版前电子稿 | 本书页面 |
-|---|---|---|
-| 第二版（蒲公英书） | [下载 PDF](https://github.com/nndl/nndl/releases/download/book-pdf/nndl-v2.pdf) | [nndl.ai/nndl-v2](https://nndl.ai/nndl-v2/) |
-| 通识版 | [下载 PDF](https://github.com/nndl/nndl/releases/download/book-pdf/nndl-ge.pdf) | [nndl.ai/nndl-ge](https://nndl.ai/nndl-ge/) |
-
-历史发布记录见 [GitHub Releases](https://github.com/nndl/nndl/releases)。固定 PDF 地址保持不变，内容会随出版前修订更新。
-
 ## 勘误与建议
 
 欢迎通过 [GitHub Issues](https://github.com/nndl/nndl/issues) 提交勘误和改进建议。提交前请先搜索是否已有相同问题，并尽量注明：
